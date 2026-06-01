@@ -9,32 +9,35 @@ This project provides a ready-to-use hardware module for FPGA-based digital logi
 ## Features
 
 - 8x seven-segment displays for multi-digit numeric output
-- - External push buttons and switches for user input
-  - - Reset functionality for system control
-    - - 2-layer PCB designed for the TRIPI FPGA 40-pin GPIO header
-      - - Plug-and-play integration with the Trion-based FPGA platform
-       
-        - ## Use Case
-       
-        - Designed as an educational hardware platform, this module allows students to:
-       
-        - - Implement digital logic circuits on a real FPGA
-          - - Develop display control and multiplexing applications
-            - - Prototype FPGA-based digital systems
-              - - Learn hardware-software co-design in an embedded context
-               
-                - ## Hardware
-               
-                - - **Platform:** TRIPI (Trion-based FPGA)
-                  - - **Interface:** 40-pin GPIO header
-                    - - **PCB:** 2-layer board
-                      - - **Display:** 8x seven-segment
-                        - - **Input:** Push buttons, DIP switches, reset button
-                         
-                          - ## Images
-                         
-                          - ### PCB Front
-                          - ![PCB Front](pcb/images/pcb_front.jpeg)
-                         
-                          - ### PCB Back
-                          - ![PCB Back](pcb/images/pcb_back.jpeg)
+- External push buttons and switches for user input
+- Reset functionality for system control
+- 2-layer PCB designed for the TRIPI FPGA 40-pin GPIO header
+- Plug-and-play integration with the Trion-based FPGA platform
+
+## Use Case
+
+Designed as an educational hardware platform, this module allows students to:
+
+- Implement digital logic circuits on a real FPGA
+- Develop display control and multiplexing applications
+- Prototype FPGA-based digital systems
+- Learn hardware-software co-design in an embedded context
+
+## Hardware
+
+- **Platform:** TRIPI (Trion-based FPGA)
+- **Interface:** 40-pin GPIO header
+- **PCB:** 2-layer board
+- **Display:** 8x seven-segment displays
+- **Input:** Push buttons, DIP switches, reset button
+
+## Images
+
+### PCB Front
+
+![PCB Front](pcb/images/pcb_front.jpeg)
+
+### PCB Back
+
+![PCB Back](pcb/images/pcb_back.jpeg)
+.
